@@ -1,0 +1,71 @@
+body{
+    text-align: center;
+}
+h1{
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    margin:0px;
+    
+}
+u{color:beige;}
+
+
+img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    object-fit: cover;
+    display:block;
+    margin:0 auto;
+}
+#projects{
+    border:2px solid;
+    text-align:centre;
+    padding:10px;
+    margin-left: 20%;
+    margin-right:20%;
+
+}
+#li2{
+    margin:30px;
+    color:rgb(79, 45, 2);
+
+}
+.li{
+
+    background-color:rgb(78, 78, 111);
+}
+nav{
+    background-color:skyblue;
+    margin:0px;
+}
+table{
+    margin-left: 45%;
+    border: 2px solid;
+    text-align: centre;
+    padding:2px;
+    background-color:rgb(230, 237, 198);
+    border-collapse:collapse;
+
+}
+th , td{
+    border:1px solid;
+    padding:10px;
+    text-align:centre;
+}
+th{
+    background-color:pink;
+}
+form{
+    border: 2px solid;
+    padding:10px;
+    margin-left: 45%;
+    margin-right:40%;
+    background-color:bisque
+}
+div{
+    background-color:skyblue;
+    margin:10px;
+}
